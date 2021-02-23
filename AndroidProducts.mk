@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d802.mk
+    $(LOCAL_DIR)/havoc_d802.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d802-user \
-    lineage_d802-userdebug \
-    lineage_d802-eng
+    havoc_d802-user \
+    havoc_d802-userdebug \
+    havoc_d802-eng
